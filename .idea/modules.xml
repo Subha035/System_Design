@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Cric-Buzz/Cric-Buzz.iml" filepath="$PROJECT_DIR$/Cric-Buzz/Cric-Buzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hotel Booking Management System/Hotel Booking Management System.iml" filepath="$PROJECT_DIR$/Hotel Booking Management System/Hotel Booking Management System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/House/House.iml" filepath="$PROJECT_DIR$/House/House.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Movie Booking System/Movie Booking System.iml" filepath="$PROJECT_DIR$/Movie Booking System/Movie Booking System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/System Design.iml" filepath="$PROJECT_DIR$/System Design.iml" />
+    </modules>
+  </component>
+</project>
